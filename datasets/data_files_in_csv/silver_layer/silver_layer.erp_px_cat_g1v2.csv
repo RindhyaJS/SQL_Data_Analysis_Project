@@ -1,1 +1,112 @@
-
+ID,CAT,SUBCAT,MAINTENANCE,dwh_create_date
+AC_BR,Accessories,Bike Racks,Yes,2026-07-13 12:26:24.4733333
+AC_BS,Accessories,Bike Stands,No,2026-07-13 12:26:24.4733333
+AC_BC,Accessories,Bottles and Cages,No,2026-07-13 12:26:24.4733333
+AC_CL,Accessories,Cleaners,Yes,2026-07-13 12:26:24.4733333
+AC_FE,Accessories,Fenders,No,2026-07-13 12:26:24.4733333
+AC_HE,Accessories,Helmets,Yes,2026-07-13 12:26:24.4733333
+AC_HP,Accessories,Hydration Packs,No,2026-07-13 12:26:24.4733333
+AC_LI,Accessories,Lights,Yes,2026-07-13 12:26:24.4733333
+AC_LO,Accessories,Locks,Yes,2026-07-13 12:26:24.4733333
+AC_PA,Accessories,Panniers,No,2026-07-13 12:26:24.4733333
+AC_PU,Accessories,Pumps,Yes,2026-07-13 12:26:24.4733333
+AC_TT,Accessories,Tires and Tubes,Yes,2026-07-13 12:26:24.4733333
+BI_MB,Bikes,Mountain Bikes,Yes,2026-07-13 12:26:24.4733333
+BI_RB,Bikes,Road Bikes,Yes,2026-07-13 12:26:24.4733333
+BI_TB,Bikes,Touring Bikes,Yes,2026-07-13 12:26:24.4733333
+CL_BS,Clothing,Bib-Shorts,No,2026-07-13 12:26:24.4733333
+CL_CA,Clothing,Caps,No,2026-07-13 12:26:24.4733333
+CL_GL,Clothing,Gloves,No,2026-07-13 12:26:24.4733333
+CL_JE,Clothing,Jerseys,No,2026-07-13 12:26:24.4733333
+CL_SH,Clothing,Shorts,No,2026-07-13 12:26:24.4733333
+CL_SO,Clothing,Socks,No,2026-07-13 12:26:24.4733333
+CL_TI,Clothing,Tights,No,2026-07-13 12:26:24.4733333
+CL_VE,Clothing,Vests,No,2026-07-13 12:26:24.4733333
+CO_BB,Components,Bottom Brackets,Yes,2026-07-13 12:26:24.4733333
+CO_BR,Components,Brakes,Yes,2026-07-13 12:26:24.4733333
+CO_CH,Components,Chains,Yes,2026-07-13 12:26:24.4733333
+CO_CS,Components,Cranksets,Yes,2026-07-13 12:26:24.4733333
+CO_DE,Components,Derailleurs,Yes,2026-07-13 12:26:24.4733333
+CO_FO,Components,Forks,Yes,2026-07-13 12:26:24.4733333
+CO_HB,Components,Handlebars,No,2026-07-13 12:26:24.4733333
+CO_HS,Components,Headsets,No,2026-07-13 12:26:24.4733333
+CO_MF,Components,Mountain Frames,Yes,2026-07-13 12:26:24.4733333
+CO_PD,Components,Pedals,No,2026-07-13 12:26:24.4733333
+CO_RF,Components,Road Frames,Yes,2026-07-13 12:26:24.4733333
+CO_SA,Components,Saddles,No,2026-07-13 12:26:24.4733333
+CO_TF,Components,Touring Frames,Yes,2026-07-13 12:26:24.4733333
+CO_WH,Components,Wheels,Yes,2026-07-13 12:26:24.4733333
+AC_BR,Accessories,Bike Racks,Yes,2026-07-14 10:08:16.2000000
+AC_BS,Accessories,Bike Stands,No,2026-07-14 10:08:16.2000000
+AC_BC,Accessories,Bottles and Cages,No,2026-07-14 10:08:16.2000000
+AC_CL,Accessories,Cleaners,Yes,2026-07-14 10:08:16.2000000
+AC_FE,Accessories,Fenders,No,2026-07-14 10:08:16.2000000
+AC_HE,Accessories,Helmets,Yes,2026-07-14 10:08:16.2000000
+AC_HP,Accessories,Hydration Packs,No,2026-07-14 10:08:16.2000000
+AC_LI,Accessories,Lights,Yes,2026-07-14 10:08:16.2000000
+AC_LO,Accessories,Locks,Yes,2026-07-14 10:08:16.2000000
+AC_PA,Accessories,Panniers,No,2026-07-14 10:08:16.2000000
+AC_PU,Accessories,Pumps,Yes,2026-07-14 10:08:16.2000000
+AC_TT,Accessories,Tires and Tubes,Yes,2026-07-14 10:08:16.2000000
+BI_MB,Bikes,Mountain Bikes,Yes,2026-07-14 10:08:16.2000000
+BI_RB,Bikes,Road Bikes,Yes,2026-07-14 10:08:16.2000000
+BI_TB,Bikes,Touring Bikes,Yes,2026-07-14 10:08:16.2000000
+CL_BS,Clothing,Bib-Shorts,No,2026-07-14 10:08:16.2000000
+CL_CA,Clothing,Caps,No,2026-07-14 10:08:16.2000000
+CL_GL,Clothing,Gloves,No,2026-07-14 10:08:16.2000000
+CL_JE,Clothing,Jerseys,No,2026-07-14 10:08:16.2000000
+CL_SH,Clothing,Shorts,No,2026-07-14 10:08:16.2000000
+CL_SO,Clothing,Socks,No,2026-07-14 10:08:16.2000000
+CL_TI,Clothing,Tights,No,2026-07-14 10:08:16.2000000
+CL_VE,Clothing,Vests,No,2026-07-14 10:08:16.2000000
+CO_BB,Components,Bottom Brackets,Yes,2026-07-14 10:08:16.2000000
+CO_BR,Components,Brakes,Yes,2026-07-14 10:08:16.2000000
+CO_CH,Components,Chains,Yes,2026-07-14 10:08:16.2000000
+CO_CS,Components,Cranksets,Yes,2026-07-14 10:08:16.2000000
+CO_DE,Components,Derailleurs,Yes,2026-07-14 10:08:16.2000000
+CO_FO,Components,Forks,Yes,2026-07-14 10:08:16.2000000
+CO_HB,Components,Handlebars,No,2026-07-14 10:08:16.2000000
+CO_HS,Components,Headsets,No,2026-07-14 10:08:16.2000000
+CO_MF,Components,Mountain Frames,Yes,2026-07-14 10:08:16.2000000
+CO_PD,Components,Pedals,No,2026-07-14 10:08:16.2000000
+CO_RF,Components,Road Frames,Yes,2026-07-14 10:08:16.2000000
+CO_SA,Components,Saddles,No,2026-07-14 10:08:16.2000000
+CO_TF,Components,Touring Frames,Yes,2026-07-14 10:08:16.2000000
+CO_WH,Components,Wheels,Yes,2026-07-14 10:08:16.2000000
+AC_BR,Accessories,Bike Racks,Yes,2026-07-14 10:08:21.2300000
+AC_BS,Accessories,Bike Stands,No,2026-07-14 10:08:21.2300000
+AC_BC,Accessories,Bottles and Cages,No,2026-07-14 10:08:21.2300000
+AC_CL,Accessories,Cleaners,Yes,2026-07-14 10:08:21.2300000
+AC_FE,Accessories,Fenders,No,2026-07-14 10:08:21.2300000
+AC_HE,Accessories,Helmets,Yes,2026-07-14 10:08:21.2300000
+AC_HP,Accessories,Hydration Packs,No,2026-07-14 10:08:21.2300000
+AC_LI,Accessories,Lights,Yes,2026-07-14 10:08:21.2300000
+AC_LO,Accessories,Locks,Yes,2026-07-14 10:08:21.2300000
+AC_PA,Accessories,Panniers,No,2026-07-14 10:08:21.2300000
+AC_PU,Accessories,Pumps,Yes,2026-07-14 10:08:21.2300000
+AC_TT,Accessories,Tires and Tubes,Yes,2026-07-14 10:08:21.2300000
+BI_MB,Bikes,Mountain Bikes,Yes,2026-07-14 10:08:21.2300000
+BI_RB,Bikes,Road Bikes,Yes,2026-07-14 10:08:21.2300000
+BI_TB,Bikes,Touring Bikes,Yes,2026-07-14 10:08:21.2300000
+CL_BS,Clothing,Bib-Shorts,No,2026-07-14 10:08:21.2300000
+CL_CA,Clothing,Caps,No,2026-07-14 10:08:21.2300000
+CL_GL,Clothing,Gloves,No,2026-07-14 10:08:21.2300000
+CL_JE,Clothing,Jerseys,No,2026-07-14 10:08:21.2300000
+CL_SH,Clothing,Shorts,No,2026-07-14 10:08:21.2300000
+CL_SO,Clothing,Socks,No,2026-07-14 10:08:21.2300000
+CL_TI,Clothing,Tights,No,2026-07-14 10:08:21.2300000
+CL_VE,Clothing,Vests,No,2026-07-14 10:08:21.2300000
+CO_BB,Components,Bottom Brackets,Yes,2026-07-14 10:08:21.2300000
+CO_BR,Components,Brakes,Yes,2026-07-14 10:08:21.2300000
+CO_CH,Components,Chains,Yes,2026-07-14 10:08:21.2300000
+CO_CS,Components,Cranksets,Yes,2026-07-14 10:08:21.2300000
+CO_DE,Components,Derailleurs,Yes,2026-07-14 10:08:21.2300000
+CO_FO,Components,Forks,Yes,2026-07-14 10:08:21.2300000
+CO_HB,Components,Handlebars,No,2026-07-14 10:08:21.2300000
+CO_HS,Components,Headsets,No,2026-07-14 10:08:21.2300000
+CO_MF,Components,Mountain Frames,Yes,2026-07-14 10:08:21.2300000
+CO_PD,Components,Pedals,No,2026-07-14 10:08:21.2300000
+CO_RF,Components,Road Frames,Yes,2026-07-14 10:08:21.2300000
+CO_SA,Components,Saddles,No,2026-07-14 10:08:21.2300000
+CO_TF,Components,Touring Frames,Yes,2026-07-14 10:08:21.2300000
+CO_WH,Components,Wheels,Yes,2026-07-14 10:08:21.2300000
