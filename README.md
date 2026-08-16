@@ -18,7 +18,7 @@
 
 ## 👋 About This Project
 
-Hi, I'm **Rindhya JS** 🙌 — and this is one of my **first hands-on projects in SQL**, where I practiced **Exploratory Data Analysis (EDA)** on a retail sales dataset (organized as a **Gold layer** — clean fact & dimension tables, warehouse-style).
+Hi, I'm **Rindhya JS** 🙌 — and this is one of my **first hands-on projects in SQL**, Built on top of the Gold layer from my SQL Data Warehouse Project", where I practiced **Exploratory Data Analysis (EDA)** on a retail sales dataset (organized as a **Gold layer** — clean fact & dimension tables, warehouse-style).
 
 Instead of just writing random queries, I followed a proper analyst's workflow — starting from *"what does this database even look like?"* all the way to *"which products are actually performing well over time?"* 🎯
 
